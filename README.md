@@ -9,10 +9,6 @@ Bu proje, **Prolog** kullanarak bir proje için görev atama ve planlama yapmay�
 - Proje için görev atamaları otomatik olarak hesaplanır.
 - Üç farklı proje için görev planlaması yapılabilir.
 
-## 📂 Dosya Açıklamaları
-- **proje_planlama.pl** → Görev atama ve planlama kurallarını içeren Prolog dosyası.
-- **README.md** → Proje hakkında açıklamaları içerir.
-
 ## 🚀 Kullanım
 Prolog ortamında aşağıdaki sorguyu çalıştırarak üç farklı proje için görev planlamasını oluşturabilirsiniz:
 
